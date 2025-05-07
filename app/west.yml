@@ -9,7 +9,7 @@ manifest:
   projects:
     - name: zephyr
       remote: zmkfirmware
-      revision: v3.5-device-power-management
+      revision: main
       clone-depth: 1
       import:
         name-blocklist:
