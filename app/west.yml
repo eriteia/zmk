@@ -8,7 +8,7 @@ manifest:
       url-base: https://github.com/petejohanson
   projects:
     - name: zephyr
-      remote: petejohanson
+      remote: zmkfirmware
       revision: v3.5-device-power-management
       clone-depth: 1
       import:
